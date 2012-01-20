@@ -29,7 +29,7 @@ function include_tubular() {
 	var $j = jQuery.noConflict();
 
 	$j(document).ready(function() {
-	   $j('body').tubular('<?php echo get_option('youtube_video_id', '');  ?>', '<?php echo get_option('container_name', 'container');  ?>', '<?php echo get_option('z_index', '1');  ?>');
+	   $j('body').tubular('<?php echo get_option('youtube_video_id', '_VKW_M_uVjw');  ?>', '<?php echo get_option('container_name', 'container');  ?>', '<?php echo get_option('z_index', '1');  ?>');
 	});
 </script>
 <?php
