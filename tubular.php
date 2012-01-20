@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Tubular
-Plugin URI: http://caseystrouse.com/wp-plugins/tubular
+Plugin URI: https://github.com/cstrouse/tubular-wp
 Description: Let's you use YouTube videos for your site background.
 Version: 0.1
 Author: Casey Strouse
