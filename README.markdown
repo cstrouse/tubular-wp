@@ -1,3 +1,3 @@
 This plugin allows you to use the Tubular jQuery plugin written by Sean McCambridge (http://www.seanmccambridge.com/tubular/).  Tubular gives you the ability to use a YouTube video as the background for your website.
 
-Currently you can configure which YouTube video to play, what the name of your containing div tag for your site is, and the z-index property for the video div that's created.  In the future you will be able to also control if the video is muted or unmuted.
+Currently you can configure which YouTube video to play, what the name of your containing div tag for your site is, and the z-index property for the video div that's created.  In the future you will be able to also control if the video is muted or unmuted as well as change the video quality to use.
